@@ -54,6 +54,7 @@
         </table>
         <input type="submit" value="CEK BMI" name="cekbmi">
         <input type="reset" value="Reset" onclick="window.location='?';" style="font-size: 15px;">
+        
     </form>
 
 </body>
