@@ -129,6 +129,9 @@
         <p>Create by Muhammad Satriyo Yuwono</p>
     </footer>
     <!-- End Footer -->
-</body>
+
+    <!-- Script JS -->
     <script src="js/bootstrap.js"></script>
+    <!-- End Script JS -->
+</body>
 </html>
