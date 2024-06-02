@@ -23,7 +23,3 @@ contoh_project is an example of how to do project_akhir. With the following fold
 project_akhir is a task given so that the mentor knows that we have met the minimum criteria for web programming, with a directory arrangement like this:</p>
 <img src="https://github.com/MuhSatriyo/VSGA-JWD/blob/main/screenshoot/Screenshot%202024-06-02%20213939.png">
 <p>project_akhir has the same features as contoh_project, but in my project_akhir I created a more attractive User Interface with a more interactive navbar</p>
-
-###
-
-<h2>👇 How To Deploy </h2> 
