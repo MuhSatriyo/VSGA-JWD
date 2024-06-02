@@ -6,6 +6,6 @@
 <p>with a directory arrangement like this:
 <br>project root/</p>
    &nbsp;&nbsp;    |-- index.php
-   <br>&nbsp;&nbsp;|-- daftar.php
-   <br>&nbsp;&nbsp;|-- style.css
-   <br>&nbsp;&nbsp;|-- /assets
+   <br>&nbsp;&nbsp;    |-- daftar.php
+   <br>&nbsp;&nbsp;    |-- style.css
+   <br>&nbsp;&nbsp;    |-- /assets
