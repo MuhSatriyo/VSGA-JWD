@@ -32,9 +32,11 @@ RUN a2enmod rewrite
 # Restart Apache untuk menerapkan perubahan
 RUN service apache2 restart
 ```
-
-<br>- # Setel working directory
-<br> WORKDIR /var/www/html
-
-<br>- # Jalankan perintah untuk memulai server
-<br> CMD ["apache2-foreground"]
+```
+# Setel working directory
+WORKDIR /var/www/html
+```
+```
+# Jalankan perintah untuk memulai server
+CMD ["apache2-foreground"]
+```
