@@ -14,7 +14,7 @@
 
 <h3>🔥 Explanation of Each Directory </h3> 
 <p>1. tugas
-<br>The content of **tugas** is a single .php file as a result of learning from each material provided by the mentor.</p>
+<br>The content of tugas is a single .php file as a result of learning from each material provided by the mentor.</p>
 <p>2. contoh_project
-<br>**contoh_project** is an example of how to do project_akhir. With the following folder arrangement</p>
-![alt text](https://github.com/MuhSatriyo/VSGA-JWD/blob/main/screenshoot/Screenshot%202024-06-02%20211030.png)
+<br>contoh_project is an example of how to do project_akhir. With the following folder arrangement</p>
+![Alt text]([image link](https://github.com/MuhSatriyo/VSGA-JWD/blob/main/screenshoot/Screenshot%202024-06-02%20211030.png)
