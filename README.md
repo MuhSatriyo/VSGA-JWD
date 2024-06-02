@@ -18,6 +18,7 @@ The content of tugas is a single .php file as a result of learning from each mat
 <p><h4>2. contoh_project</h4>
 contoh_project is an example of how to do project_akhir. With the following folder like this:</p>
 <img src="https://github.com/MuhSatriyo/VSGA-JWD/blob/main/screenshoot/Screenshot%202024-06-02%20211030.png">
+<p>contoh_project has features such as bootstrap, retrieving data from a .json file with the $_POST method then displaying it again in table form in the interface display</p>
 <p><h4>3. project_akhir</h4>
 project_akhir is a task given so that the mentor knows that we have met the minimum criteria for web programming, with a directory arrangement like this:</p>
 <img src="https://github.com/MuhSatriyo/VSGA-JWD/blob/main/screenshoot/Screenshot%202024-06-02%20213939.png">
