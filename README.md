@@ -15,5 +15,4 @@
 <h3>🔥 Explanation of Each Directory </h3> 
 <p>1. tugas
 <br>The content of 'tugas' is a single .php file as a result of learning from each material provided by the mentor.</p>
-<br>
 <p>2. contoh_project</p>
