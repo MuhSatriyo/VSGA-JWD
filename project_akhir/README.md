@@ -11,20 +11,27 @@
 <br>|-- style.css</p>
 
 <p>For this directory, which contains the index.php file and supporting directories you can use dockerfile like this:</p>
-<br>- # Gunakan image PHP resmi dari Docker Hub
-<br> FROM php:8.1-apache
 
-<br>- # Menyalin file proyek ke dalam direktori kerja container
-<br> COPY . /var/www/html/
-
+```
+# Gunakan image PHP resmi dari Docker Hub
+FROM php:8.1-apache
+```
+```
+# Menyalin file proyek ke dalam direktori kerja container
+COPY . /var/www/html/
+```
+```
 <br>- # Setel hak akses untuk direktori data
 <br> RUN chown -R www-data:www-data /var/www/html/data
-
-<br>- # Aktifkan mod_rewrite untuk Apache
-<br> RUN a2enmod rewrite
-
-<br>- # Restart Apache untuk menerapkan perubahan
-<br> RUN service apache2 restart
+```
+```
+# Aktifkan mod_rewrite untuk Apache
+RUN a2enmod rewrite
+```
+```
+# Restart Apache untuk menerapkan perubahan
+RUN service apache2 restart
+```
 
 <br>- # Setel working directory
 <br> WORKDIR /var/www/html
