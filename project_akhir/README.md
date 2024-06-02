@@ -12,4 +12,4 @@
 
 <p>For this directory, which contains the index.php file and supporting directories you can use dockerfile like this:</p>
 <br>- # Gunakan image PHP resmi dari Docker Hub
-FROM php:8.1-apache
+<br> FROM php:8.1-apache
