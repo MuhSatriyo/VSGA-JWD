@@ -1,6 +1,6 @@
 # VSGA-JWD
 
-## _This Repository Was Created For The Learning Process_
+## _This Repository Was Created For The Learning Process To Be Junior Web Developer_
 
 ###
 
