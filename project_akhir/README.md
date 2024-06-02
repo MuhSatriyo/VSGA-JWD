@@ -4,8 +4,8 @@
 
 <p>project_akhir has the same features as contoh_project, but in my project_akhir I created a more attractive User Interface with a more interactive navbar</p>
 <p>with a directory arrangement like this:
-<br>project root/
-<br>  |-- index.php
-<br>  |-- daftar.php
-<br>  |-- style.css
-<br>  |-- /assets </p>
+<br>project root/</p>
+>  |-- index.php
+>  |-- daftar.php
+>  |-- style.css
+>  |-- /assets
