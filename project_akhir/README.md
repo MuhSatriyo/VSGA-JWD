@@ -9,3 +9,4 @@
    <br>&nbsp;&nbsp;    |-- daftar.php
    <br>&nbsp;&nbsp;    |-- style.css
    <br>&nbsp;&nbsp;    |-- /assets
+    <br>&nbsp;&nbsp;         |-- data/
