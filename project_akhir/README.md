@@ -9,6 +9,7 @@
 <br>|-- daftar.php
 <br>|-- style.css</p>
 
+<h2>🧩 How to Deploy 👇</h2> 
 <p>For this directory, which contains the index.php file and supporting directories you can use dockerfile like this:</p>
 
 ```
