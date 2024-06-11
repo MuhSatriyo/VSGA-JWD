@@ -7,11 +7,11 @@ $database_name = "daftar";
 
 $db = mysqli_connect($hostname, $username, $password, $database_name);
 
-if($db->connect_error) {
-    echo "DB Disconnect";
-    die("error!");
-}
+// if($db->connect_error) {
+//     echo "DB Disconnect";
+//     die("error!");
+// }
 
-echo "<h2>KONEKSI BERHASIL</h2>";
+// echo "<h2>KONEKSI BERHASIL</h2>";
 
 ?>
